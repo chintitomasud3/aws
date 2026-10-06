@@ -5,3 +5,6 @@ sudo ./aws/install
 
 aws --version
 aws configure
+
+## identity test korar jonne
+aws sts get-caller-identity
